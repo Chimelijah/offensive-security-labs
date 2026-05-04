@@ -12,4 +12,4 @@ Deployed Kali Linux on an AWS EC2 instance to serve as a cloud-based Command & C
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/hacking-android-through-the-cloud-a-hands-on-aws-reverse-shell-guide-384282c5d4c8)*
